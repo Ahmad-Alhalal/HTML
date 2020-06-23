@@ -1,0 +1,43 @@
+/* add your CSS here */
+
+img {
+    width: 300px}
+
+
+span {
+    font-weight: bold;}
+
+
+li {
+    margin-top: 5px}
+
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+
+.card {
+    border: 1px solid silver;
+    padding: 5px;
+}
+
+
+.all {
+    border: 1px solid silver;
+    padding: 5px;
+    width: 300px;
+    flex-wrap: wrap;
+}
+
+
+h3 {
+    font-size: 24pt;
+    margin-top: 10px;
+}
+
+
+.fact{
+    font-style: italic;
+}
